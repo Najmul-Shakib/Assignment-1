@@ -112,6 +112,25 @@ nav ul li{
     border-radius: 5px;
 }
 .conti-tar{
+    display: block;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.extra{
     display: flex;
     justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+.a{
+    background-color: #FF4D1F;
+}
+.b{
+    background-color: #004CE8;
+}
+.c{
+    background-color: #FFDF00;
 }
